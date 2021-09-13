@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+My name is Daniel Yatali and I am an aspiring Full Stack Dev.
+
+### About Me
+I am currently studing Computer Science at the Univeristy of the West Indies `🇹🇹`.
+
+I have been coding for about a year and I really enjoy the Profession 🌱.
+🔭 Currently I am working on building project for my Github and Portfolio ⚡
+
+
+
+
 <!--
 **DanielYatali/DanielYatali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
