@@ -5,8 +5,7 @@ My name is Daniel Yatali and I am an Aspiring `blank` Developer.
 Not sure which road I would like to take on my coding journey so I am trying everything😧
 
 ### About Me
-I am currently studing Computer Science at the Univeristy of the West Indies `🇹🇹` 📚.
-
+I am currently studing Computer Science at the Univeristy of the West Indies `🇹🇹` 📚.\
 I have been coding for about a year and I really enjoy the Profession 🌱.
 
 Started Coding in `2020`
@@ -14,14 +13,7 @@ Started Coding in `2020`
 Currently I am working on building project for Github and my Portfolio ⚡
 
 ### Languages/Frameworks I `think` I have under my belt
-* `C++`  * `JavaScript`
-
-* `Python`
-* `TypeScript`
-* `
-
-
-
+#### `C++`,  `JavaScript`, `Python`, `TypeScript`, `React.js`
 
 <!--
 **DanielYatali/DanielYatali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
