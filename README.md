@@ -8,9 +8,17 @@ Not sure which road I would like to take on my coding journey so I am trying eve
 I am currently studing Computer Science at the Univeristy of the West Indies `🇹🇹` 📚.
 
 I have been coding for about a year and I really enjoy the Profession 🌱.
+
 Started Coding in `2020`
 
-🔭 Currently I am working on building project for my Github and Portfolio ⚡
+Currently I am working on building project for Github and my Portfolio ⚡
+
+### Languages/Frameworks I `think` I have under my belt
+* `C++`  * `JavaScript`
+
+* `Python`
+* `TypeScript`
+* `
 
 
 
