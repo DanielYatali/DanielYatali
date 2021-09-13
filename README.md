@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Daniel Yatali and I am an Aspiring `    ` Developer.
+My name is Daniel Yatali and I am an Aspiring `blank` Developer.
 Not sure which road I would like to take on my coding journey so I am trying everying😧
 
 ### About Me
