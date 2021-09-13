@@ -1,11 +1,14 @@
 ### Hi there 👋
 
-My name is Daniel Yatali and I am an aspiring Full Stack Dev.
+My name is Daniel Yatali and I am an Aspiring `    ` Developer.
+Not sure which road I would like to take on my coding journey so I am trying everying😧
 
 ### About Me
-I am currently studing Computer Science at the Univeristy of the West Indies `🇹🇹`.
+I am currently studing Computer Science at the Univeristy of the West Indies `🇹🇹` 📚.
 
 I have been coding for about a year and I really enjoy the Profession 🌱.
+Started Coding in `2020`
+
 🔭 Currently I am working on building project for my Github and Portfolio ⚡
 
 
