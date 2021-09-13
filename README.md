@@ -10,8 +10,8 @@ Started Coding in `2020`
 
 Currently I am working on building project for Github and my Portfolio ⚡
 
-### Languages/Frameworks I `think` I have under my belt\
-#### `C++`,  `JavaScript`, `Python`, `TypeScript`, `React.js`
+#### Languages/Frameworks I "think" I have under my belt\
+ `C++`,  `JavaScript`, `Python`, `TypeScript`, `React.js`
 
 <!--
 **DanielYatali/DanielYatali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
