@@ -1,8 +1,8 @@
-### Hi there 👋/
-My name is Daniel Yatali and I am an Aspiring `blank` Developer./
+### Hi there 👋\
+My name is Daniel Yatali and I am an Aspiring `blank` Developer.\
 Not sure which road I would like to take on my coding journey so I am trying everything😧
 
-### About Me/
+### About Me\
 I am currently studing Computer Science at the Univeristy of the West Indies `🇹🇹` 📚.\
 I have been coding for about a year and I really enjoy the Profession 🌱.
 
@@ -10,7 +10,7 @@ Started Coding in `2020`
 
 Currently I am working on building project for Github and my Portfolio ⚡
 
-### Languages/Frameworks I `think` I have under my belt/
+### Languages/Frameworks I `think` I have under my belt\
 #### `C++`,  `JavaScript`, `Python`, `TypeScript`, `React.js`
 
 <!--
