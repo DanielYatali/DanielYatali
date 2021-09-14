@@ -8,7 +8,7 @@ I have been coding for about a year and I really enjoy building stuff 🌱.\
 Started Coding in `2020`\
 Currently I am working on building projects for Github and my Portfolio ⚡
 
-#### Languages/Frameworks I "think" I have under my belt\
+#### Languages/Frameworks I have used:
  `C++`,  `JavaScript`, `Python`, `TypeScript`, `React.js`
 
 <!--
