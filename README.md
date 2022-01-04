@@ -3,7 +3,7 @@ My name is Daniel Yatali and I am an Aspiring `_____` Developer.\
 Not sure which road I would like to take on my coding journey so I am trying everything😧
 
 ### About Me
-I am currently studing Computer Science at the Univeristy of the West Indies `🇹🇹` 📚.\
+I am currently studying Computer Science at the Univeristy of the West Indies `🇹🇹` 📚.\
 I have been coding for about a year and I really enjoy building stuff 🌱.\
 Started Coding in `2020`\
 Currently I am working on building projects for Github and my Portfolio ⚡
