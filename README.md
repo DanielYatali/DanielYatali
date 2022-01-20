@@ -10,6 +10,7 @@ Currently I am working on building projects for Github and my Portfolio ⚡
 
 #### Languages/Frameworks I have used:
  `C++`,  `JavaScript`, `Python`, `TypeScript`, `React.js`, `Java`
+ 
 
 ![](https://komarev.com/ghpvc/?username=DanielYatali&color=green)
 
