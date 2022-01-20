@@ -9,7 +9,7 @@ Started Coding in `2020`\
 Currently I am working on building projects for Github and my Portfolio ⚡
 
 #### Languages/Frameworks I have used:
- `C++`,  `JavaScript`, `Python`, `TypeScript`, `React.js`
+ `C++`,  `JavaScript`, `Python`, `TypeScript`, `React.js`, `Java`
 
 <!--
 **DanielYatali/DanielYatali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
