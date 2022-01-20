@@ -11,7 +11,7 @@ Currently I am working on building projects for Github and my Portfolio ⚡
 #### Languages/Frameworks I have used:
  `C++`,  `JavaScript`, `Python`, `TypeScript`, `React.js`, `Java`
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=DanielYatali)
 
 <!--
 **DanielYatali/DanielYatali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
