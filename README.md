@@ -1,15 +1,14 @@
 ### Hi there 👋
 My name is Daniel Yatali and I'm an Aspiring `_____` Developer.\
-Not sure which road I would like to take on my coding journey so I am trying everything😧
+I'm not sure which path I would like to take on my programming journey, so I'm experimenting with everything.😧
 
 ### About Me
 I am currently studying Computer Science at the Univeristy of the West Indies `🇹🇹` 📚.\
-I have been coding for about a year and I really enjoy building stuff 🌱.\
-Started Coding in `2020`\
+I began programming in August 2020 and have had a lot of fun creating things since then. 🌱.\
 Currently I am working on building projects for Github and my Portfolio ⚡
 
 #### Languages/Frameworks I have used:
- `C++`,  `JavaScript`, `Python`, `TypeScript`, `React.js`, `Java`
+ `C++`,  `JavaScript`, `Python`, `Java`, `React.js`, `TypeScript`
  
  
 ![](https://komarev.com/ghpvc/?username=DanielYatali&color=green)
