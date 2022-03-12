@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Daniel Yatali and I'm an Aspiring `_____` Developer.\
+My is Daniel Yatali and I'm an Aspiring `_____` Developer.\
 I'm not sure which path I would like to take on my programming journey, so I'm experimenting with everything.😧
 
 ### About Me
