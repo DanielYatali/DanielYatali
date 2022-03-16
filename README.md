@@ -8,7 +8,7 @@ I began programming in August 2020 and have had a lot of fun creating things sin
 Currently I am working on building projects for Github and my Portfolio ⚡
 
 #### Languages/Frameworks I have used:
- `C++`,  `JavaScript`, `Python`, `Java`, `React.js`, `TypeScript`
+ `C++`,  `JavaScript`, `Python`, `Java`, `React.js`, `TypeScript`, `Svelte Kit`
  
  
 ![](https://komarev.com/ghpvc/?username=DanielYatali&color=green)
