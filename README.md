@@ -6,7 +6,7 @@ Currently pursuing a degree in Computer Science at the University of the West In
 Currently I am working on building projects for Github and my Portfolio 🔭
 
 #### Languages/Frameworks I have used:
- `C++`,  `JavaScript`, `Python`, `Java`, `React.js`, `TypeScript`, `Svelte Kit`
+ `C++`,  `JavaScript`, `Python`, `Java`, `Go`, `React.js`, `TypeScript`, `Svelte Kit`
  
  ![](https://komarev.com/ghpvc/?username=DanielYatali&color=green)
 
