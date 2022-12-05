@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Daniel Yatali and I'm an Aspiring Software Developer.
+My name is Daniel Yatali and I'm a Software Developer.
 
 ### About Me
 Currently pursuing a degree in Computer Science at the University of the West Indies `🇹🇹` 📚.\
