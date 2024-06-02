@@ -1,26 +1,21 @@
-### Hi there 👋
-My name is Daniel Yatali and I'm a Software Developer.
+## Hi there! 👋 I'm [Your Name]
 
-### About Me
-Currently pursuing a degree in Computer Science at the University of the West Indies `🇹🇹` 📚.\
-Currently I am working on building projects for Github and my Portfolio 🔭
+I'm a passionate software developer and a Computer Science graduate from Trinidad and Tobago.
 
-#### Languages/Frameworks I have used:
- `C++`,  `JavaScript`, `Python`, `Java`, `Go`, `React`, `Vue`, `Svelte`
- 
- ![](https://komarev.com/ghpvc/?username=DanielYatali&color=green)
+### 🔭 What I'm Currently Up To:
+- Creating bugs (and squashing them!)
+- Diving deep into the world of Large Language Models (LLMs)
 
-<!--
-**DanielYatali/DanielYatali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Technologies & Tools:
+- **Languages:** Python, JavaScript, Go
+- **Frameworks:** FastAPI, Fiber, Nuxt.js, Vue.js, SveltKit, React
+- **Databases:** MongoDB, PostgreSQL
+- **Tools:** Docker, Git, Scrapy
 
-Here are some ideas to get you started:
+### 🤝 Let's Connect:
+- [LinkedIn](https://www.linkedin.com/in/daniel-yatali-2b4b84171/)
+- [Twitter](https://x.com/Daniel_Yatali)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out or collaborate on exciting projects. Let's create something amazing together!
+
+
