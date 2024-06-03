@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm [Your Name]
+## Hi there! 👋 I'm Daniel Yatali
 
 I'm a passionate software developer and a Computer Science graduate from Trinidad and Tobago.
 
