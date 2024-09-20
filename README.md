@@ -8,7 +8,7 @@ I'm a passionate software developer and a Computer Science graduate from Trinida
 
 ### 💻 Technologies & Tools:
 - **Languages:** Python, JavaScript, Go
-- **Frameworks:** FastAPI, Fiber, Nuxt.js, Vue.js, SveltKit, React
+- **Frameworks:** FastAPI, Go Fiber, Nuxt.js, Next.js, Vue.js, SveltKit, React
 - **Databases:** MongoDB, PostgreSQL
 - **Tools:** Docker, Git, Scrapy
 
