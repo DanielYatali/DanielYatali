@@ -7,8 +7,8 @@ I'm a passionate software developer and a Computer Science graduate from Trinida
 - Diving deep into the world of Large Language Models (LLMs)
 
 ### 💻 Technologies & Tools:
-- **Languages:** Python, JavaScript, Go
-- **Frameworks:** FastAPI, Go Fiber, Nuxt.js, Next.js, Vue.js, SveltKit, React
+- **Languages:** JavaScript, Python, Go
+- **Frameworks:** Nest,js, FastAPI, Go Fiber, Nuxt.js, Next.js, Vue.js, SveltKit, React
 - **Databases:** MongoDB, PostgreSQL
 - **Tools:** Docker, Git, Scrapy
 
