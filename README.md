@@ -14,6 +14,7 @@ I'm a passionate software developer and a Computer Science graduate from Trinida
 
 ### 🤝 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/daniel-yatali-2b4b84171/)
+- [Website](https://danielyatali.vercel.app/)
 
 Feel free to reach out or collaborate on exciting projects. Let's create something amazing together!
 
